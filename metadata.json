@@ -1,0 +1,5 @@
+{
+  "name": "ThreadSync Visualizer",
+  "description": "A high-fidelity interactive simulation of process synchronization using threads, semaphores, and mutexes, demonstrating the classic Producer-Consumer problem with a modern UI.",
+  "requestFramePermissions": []
+}
