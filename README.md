@@ -133,13 +133,3 @@ React
 TypeScript
 
 ---
-
-If you want, I can also improve this README to **make it look like a top-tier GitHub project** by adding:
-
-* Architecture diagram
-* How synchronization works step-by-step
-* Screenshots section
-* GIF demo
-* System design explanation
-
-That can **boost your portfolio a lot.**
